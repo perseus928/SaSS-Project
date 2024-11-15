@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Formed
 
 It's an Online mediation platform Source...
@@ -29,3 +30,7 @@ yarn dev
 
 
 Set `admin_emails` in `config/auth.php`
+=======
+# SaSS-Project
+SaSS-Project
+>>>>>>> 503622dc58682b415a13c0e10fce61ad52f637e3
